@@ -4,10 +4,9 @@
 
 ### iOS Developer · SwiftUI · Clean Architecture · Health & BLE Apps
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0A84FF&center=true&vCenter=true&width=640&lines=Building+clinician-grade+iOS+apps+at+Janitri;SwiftUI+%7C+Combine+%7C+CoreBluetooth+%7C+HealthKit;ECE+%40+IIITDM+Jabalpur+(2026);2nd+Place+%E2%80%93+National+ML+Hackathon" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0A84FF&center=true&vCenter=true&width=640&lines=Building+clinician-grade+iOS+apps+for+healthcare;SwiftUI+%7C+Combine+%7C+CoreBluetooth+%7C+HealthKit;ECE+%40+IIITDM+Jabalpur+(2026);2nd+Place+%E2%80%93+National+ML+Hackathon" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=NOTsaptaswa&label=Profile%20Views&color=0a84ff&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saptaswa-nandi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saptaswa-nandi-b70a62258)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nandi.saptaswa@gmail.com)
 
 </div>
@@ -16,12 +15,20 @@
 
 ## 🧑‍💻 About Me
 
-- 📱 iOS Developer Intern at **Janitri** (Aug 2025 – Present), building maternal-health software used by clinicians
-- 🏗️ Built a clinician iOS app **from scratch in SwiftUI** across 9 feature modules (patient management, vitals dashboards, PDF reports)
-- 🩺 Integrated **BLE medical devices** with CoreBluetooth, vendor SDKs and a custom binary packet decoder
-- 🚀 Ship releases through **Fastlane + TestFlight** CI/CD
-- 🎓 B.Tech, Electronics & Communication Engineering, **IIITDM Jabalpur** (2022 – 2026)
-- 🎨 Care about interface design, HCI and clean, testable architecture
+I'm an iOS developer who builds **real-world healthcare software**: apps that clinicians rely on to care for patients, and apps that support **mothers and newborns** through maternal health monitoring. I work on production code end to end, from architecture and UI to device integration, bug fixing and App Store-ready releases.
+
+**🩺 What I build**
+- 🏥 A **clinician-facing iOS app built from scratch in SwiftUI**: 9 feature modules covering patient management, live vitals dashboards and PDF clinical reports, on **Clean Architecture + MVVM + Combine** with secure **JWT auth and Keychain** storage
+- 🤱 Features for a **live maternal health app** used in care for **mothers and their babies**, including trend charts, **Live Activities** and **offline-first Core Data storage** so care isn't interrupted when connectivity is poor
+- 📡 **Bluetooth Low Energy medical device integration** with CoreBluetooth, vendor SDKs and a custom **binary packet decoder** that turns raw device data into readable vitals
+- 🛠️ Day-to-day work with **Swift Concurrency (async/await)** and REST APIs, fixing production defects end to end and shipping releases via **Fastlane + TestFlight CI/CD**
+
+**🧠 How I work**
+- 🏗️ I design for scale and testability: modular layers, dependency injection, repository pattern
+- 🎨 I care about interface design and HCI, because in healthcare a clear screen can matter as much as correct code
+- 🔁 I've also shipped across stacks: React Native, Flutter, Node.js and ML (2nd place at a national ML hackathon)
+
+**🎓 Education:** B.Tech, Electronics & Communication Engineering, **IIITDM Jabalpur** (2022 – 2026)
 
 ---
 
@@ -132,7 +139,7 @@ Full-stack focus-tracking app with 3 session types and cursor-based pagination. 
 
 ## 📫 How to Reach Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/saptaswa-nandi)
+- 💼 [LinkedIn](https://www.linkedin.com/in/saptaswa-nandi-b70a62258)
 - 📧 [nandi.saptaswa@gmail.com](mailto:nandi.saptaswa@gmail.com)
 - 📞 +91 7738501691
 
